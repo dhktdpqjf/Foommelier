@@ -1,10 +1,12 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
-- HMR Food recommendation
+HMR Food recommendation
+
  This is on target to busy people like college students or office workers who can't spend their time cooking very much.
 
  1. Data Set 
+
   Data set is gathered from Ottugi, Lotte Food, Bae-min-chan which are big food distribution company and make a delivery of instant food.
   
  2. Data Analysis
@@ -17,10 +19,11 @@ Food recommendation system based on content-based filtering recommendation algor
   Pearson correlation coefficient
   : It is made use of collaborative filtering algorithm and pearson correlation coefficient in it. 
 
-- Open your fridge
+Open your fridge
  This is for people who enjoy cooking at home with food ingredients from their fridge.
 
  1. Data Set
+
   Data set is collected from Naver Recipe page. Data crawling is also programmed with python and HTML. 
  
  2. Data Analysis
