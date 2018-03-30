@@ -4,8 +4,7 @@ Food recommendation system based on content-based filtering recommendation algor
 HMR Food recommendation
 - This is on target to busy people like college students or office workers who can't spend their time cooking very much.
  
-1. Data Set
-- Data set is gathered from Ottugi, Lotte Food, Bae-min-chan which are big food distribution company and make a delivery of instant food.
+1. Data Set - Data set is gathered from Ottugi, Lotte Food, Bae-min-chan which are big food distribution company and make a delivery of instant food.
   
 2. Data Analysis
 - Normalization 
