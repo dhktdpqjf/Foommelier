@@ -1,7 +1,5 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
-
-
 1. HMR Food recommendation
  This is on target to busy people like college students or office workers who can't spend their time cooking very much.
  
