@@ -1,7 +1,7 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
--	HMR Food recommendation
+## HMR Food recommendation
 
 This is on target to busy people like college students or office workers who can't spend their time cooking very much.
 
@@ -22,7 +22,7 @@ This is on target to busy people like college students or office workers who can
   : It is made use of collaborative filtering algorithm and pearson correlation coefficient in it. 
 
 
--	Open your fridge
+## Open your fridge
 
  This is for people who enjoy cooking at home with food ingredients from their fridge.
 
@@ -41,7 +41,7 @@ This is on target to busy people like college students or office workers who can
   : It is made use of collaborative filtering algorithm and euclidian distance score is applied to it.
   
   
- 3. Front end
+## Front end
   : It offers hyperlinks to click on which links to the service page showing cooking process of food.
 
 
