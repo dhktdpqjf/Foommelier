@@ -1,16 +1,17 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
-## HMR Food recommendation
+--------------
 
+## HMR Food recommendation
 This is on target to busy people like college students or office workers who can't spend their time cooking very much.
 
-
- 1. Data Set 
+ __1. Data Set __
+ 
   Data set is gathered from Ottugi, Lotte Food, Bae-min-chan which are big food distribution company and make a delivery of instant food.
   
   
- 2. Data Analysis
+ __2. Data Analysis__
 
   Normalization 
   : all of portion size, nutrient, calories are continuous variable which needs to be normalized.
@@ -23,7 +24,6 @@ This is on target to busy people like college students or office workers who can
 
 
 ## Open your fridge
-
  This is for people who enjoy cooking at home with food ingredients from their fridge.
 
 
