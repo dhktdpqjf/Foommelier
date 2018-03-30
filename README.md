@@ -1,9 +1,9 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
+## Source 
 
-
-## HMR Food recommendation
+### HMR Food recommendation
 This is on target to busy people like college students or office workers who can't spend their time cooking very much.
 
  __1. Data Set__
@@ -23,7 +23,7 @@ This is on target to busy people like college students or office workers who can
   : It is made use of collaborative filtering algorithm and pearson correlation coefficient in it. 
 
 
-## Open your fridge
+### Open your fridge
  This is for people who enjoy cooking at home with food ingredients from their fridge.
 
 
@@ -45,7 +45,7 @@ This is on target to busy people like college students or office workers who can
   : It offers hyperlinks to click on which links to the service page showing cooking process of food.
 
 
-## Let's have dinner 
+### Let's have dinner 
  This is menu planning service based on health. Users can enter their health information like chronic disease, BMI or what they want to focus(ex. bulk-up, losing weight). This is a program not only to recommend menu but also make estimate of user's grade for it.
  
  
@@ -58,3 +58,6 @@ This is on target to busy people like college students or office workers who can
 
   Linear Regression Analysis
   : We set the customer satisfaction to dependent variable and perform linear regression analysis.
+  
+## Final Service with GUI
+You can see GUI codes and executes with python program.
