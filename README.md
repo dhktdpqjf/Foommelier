@@ -2,7 +2,7 @@
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
 ## Final Service with GUI
-You can see GUI codes and executes with python program.
+GUI codes to execute with python program.
 
 ## Source 
 
