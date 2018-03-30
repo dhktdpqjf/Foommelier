@@ -1,6 +1,9 @@
 # Foommelier
 Food recommendation system based on content-based filtering recommendation algorithm with Python
 
+## Final Service with GUI
+You can see GUI codes and executes with python program.
+
 ## Source 
 
 ### HMR Food recommendation
@@ -59,5 +62,3 @@ This is on target to busy people like college students or office workers who can
   Linear Regression Analysis
   : We set the customer satisfaction to dependent variable and perform linear regression analysis.
   
-## Final Service with GUI
-You can see GUI codes and executes with python program.
