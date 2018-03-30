@@ -13,13 +13,13 @@ This is on target to busy people like college students or office workers who can
   
  __2. Data Analysis__
 
-  __Normalization__ 
+  Normalization 
   : all of portion size, nutrient, calories are continuous variable which needs to be normalized.
 
-  __Clustering__
+  Clustering
   : We need to figure out which cluster a record is included in. So we performed K-means algorithm which helps to make 500 records to 14 clusters.
 
-  __Pearson correlation coefficient__
+  Pearson correlation coefficient
   : It is made use of collaborative filtering algorithm and pearson correlation coefficient in it. 
 
 
